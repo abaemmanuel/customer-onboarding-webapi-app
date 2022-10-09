@@ -1,0 +1,45 @@
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.deps.json
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.runtimeconfig.json
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.pdb
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\refint\CustomerOnboarding.Core.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.pdb
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\ref\CustomerOnboarding.Core.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.deps.json
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.runtimeconfig.json
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.pdb
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\refint\CustomerOnboarding.Core.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.pdb
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\ref\CustomerOnboarding.Core.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.deps.json
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.runtimeconfig.json
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.runtimeconfig.dev.json
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\bin\Debug\net5.0\CustomerOnboarding.Core.pdb
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.csproj.AssemblyReference.cache
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.AssemblyInfoInputs.cache
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.AssemblyInfo.cs
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.csproj.CoreCompileInputs.cache
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\refint\CustomerOnboarding.Core.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.pdb
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\CustomerOnboarding.Core.genruntimeconfig.cache
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Core\obj\Debug\net5.0\ref\CustomerOnboarding.Core.dll

@@ -1,0 +1,252 @@
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.exe
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.deps.json
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.runtimeconfig.json
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.pdb
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\BCrypt.Net-Core.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Refit.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Refit.HttpClientFactory.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Net.Http.Json.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.ApplicationService.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Core.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Repository.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.ApplicationService.pdb
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Core.pdb
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Repository.pdb
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\scopedcss\bundle\CustomerOnboarding.Api.styles.css
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\staticwebassets\CustomerOnboarding.Api.StaticWebAssets.Manifest.cache
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.csproj.CopyComplete
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\refint\CustomerOnboarding.Api.dll
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.pdb
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\ref\CustomerOnboarding.Api.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.exe
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.deps.json
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.runtimeconfig.json
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.pdb
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\BCrypt.Net-Core.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Refit.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Refit.HttpClientFactory.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Net.Http.Json.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.ApplicationService.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Core.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Repository.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.ApplicationService.pdb
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Core.pdb
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Repository.pdb
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\scopedcss\bundle\CustomerOnboarding.Api.styles.css
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\staticwebassets\CustomerOnboarding.Api.StaticWebAssets.Manifest.cache
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.csproj.CopyComplete
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\refint\CustomerOnboarding.Api.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.pdb
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\ref\CustomerOnboarding.Api.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.exe
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.deps.json
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.runtimeconfig.json
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.runtimeconfig.dev.json
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.pdb
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\BCrypt.Net-Core.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Refit.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Refit.HttpClientFactory.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Net.Http.Json.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.ApplicationService.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Core.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Repository.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.ApplicationService.pdb
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Core.pdb
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Repository.pdb
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.csproj.AssemblyReference.cache
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.AssemblyInfoInputs.cache
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.AssemblyInfo.cs
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.csproj.CoreCompileInputs.cache
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\scopedcss\bundle\CustomerOnboarding.Api.styles.css
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\staticwebassets\CustomerOnboarding.Api.StaticWebAssets.Manifest.cache
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.csproj.CopyComplete
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\refint\CustomerOnboarding.Api.dll
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.pdb
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.genruntimeconfig.cache
+C:\Users\Abax\Documents\Project for Git\Kunle folder\WemaBank-CustomerOnboarding-main\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\ref\CustomerOnboarding.Api.dll
